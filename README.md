@@ -2,7 +2,7 @@
 
 An XY vector graphics generator for the classic ESP32 using the built-in DACs and a standard analogue oscilloscope in X-Y mode.
 
-The project demonstrates how a classic ESP32 can generate vector graphics, text, geometric figures and animated Lissajous patterns using only the two internal 8-bit DAC channels.
+The project [demonstrates](https://youtu.be/_HsWKhnIUUo?si=ZuUncWUtaTGU2IXH) how a classic ESP32 can generate vector graphics, [text](images/text_demo.jpg), geometric figures and [animated Lissajous patterns](images/lissajous.jpg) using only the two internal 8-bit DAC channels.
 
 ## Features
 
